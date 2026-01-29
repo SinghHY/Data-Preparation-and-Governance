@@ -1,0 +1,124 @@
+order_id,order_date,customer_id,segment,city,province,quantity,unit_price,discount,shipping_cost,comments
+ORD-1000,01-Jan-2024,C002,Corporate,Toronto,SK,1,232.49,-,N/A,NA
+ORD-1001,2024-01-02,C001,Consumer,Ottawa,QC,2,218.26,,N/A,—
+ORD-1002,03-Jan-2024,C005,Home Office,,QC,4,82.47,0.0,32.01,
+ORD-1003,02/30/2024,C004,Small Biz,Halifax,SK,3,-999,0.15,65.37,urgent delivery
+ORD-1004,05-Jan-2024, ,Consumer,Calgary,AB,1, ,NA,159.06,
+ORD-1005,NA,C003,Consumer,Vancouver,NS,7,108.92,0.15,48.24,
+ORD-1006,NA,null,Home Office,Halifax,ON,7, ,-,54.16,urgent delivery
+ORD-1007,08-Jan-2024,C002,Home Office,Vancouver,SK,6,45.73,0.15,63.92,
+ORD-1008,02/30/2024,N/A,Corporate,Calgary,ON,3,?,0.05,,urgent delivery
+ORD-1009,2024-01-10,NA,Consumer,,QC,1,181.01,0.0,141.9,
+ORD-1010,11-Jan-2024,C001,Corporate,NA,QC,,N/A,0.1,NA,
+ORD-1011,NA,C002,Consumer,Calgary,AB,6,16.68,0.2,,fragile
+ORD-1012,13-Jan-2024,C004,Consumer, ,MB,1,N/A,0.05,null,—
+ORD-1013,02/30/2024,C004,Small Biz,Halifax,SK,4,?,0.25,43.53,fragile
+ORD-1014,2024-01-15,C001,Consumer,Ottawa,QC,,31.56,0.2,118.52,
+ORD-1015,16-Jan-2024,C004,Corporate,Toronto,MB,7,97.93,NA,26.01,
+ORD-1016,2024-01-17,C007,Corporate, ,MB,2,121.2,0.05,121.09,—
+ORD-1017,01/18/2024,C004,Small Biz,Ottawa,QC,,339.83,,11.57,urgent delivery
+ORD-1018,2024-01-19,C008,Corporate,Ottawa,NS,1,312.47,0.05,-999,
+ORD-1019,NA,NA,Home Office,Vancouver,QC,NaN,56.28,0.1,47.88,
+ORD-1020,01/21/2024,C001,Small Biz,Calgary,NS,—, ,0.05,144.0,gift
+ORD-1021,01/22/2024,C003,N/A,Montreal,SK,3,34.68,0.0,116.86,gift
+ORD-1022,01/23/2024,C007,Corporate,Halifax,MB,9,99,,-999,urgent delivery
+ORD-1023,01/24/2024,C006,Home Office,Ottawa,SK,NaN,141.48,0.0,129.27,
+ORD-1024,2024-01-25,C005,Small Biz,Vancouver,NS,3,,NA,64.87,urgent delivery
+ORD-1025,01/26/2024,C003,Home Office,Halifax,QC,4,130.46,0.0,130.83,leave at door
+ORD-1026,NA,None,Small Biz,Calgary,BC,1,56.48,0.0,99.23,
+ORD-1027,01/28/2024,C006, ,Montreal,AB,2,82.11,NA,33.93,—
+ORD-1028,01/29/2024,C002,Consumer, ,SK,1,98.65,0.25,84.15,gift
+ORD-1029,01/30/2024,C002,Corporate,,SK,8,N/A,0.05, ,
+ORD-1030,31-Jan-2024,C007,Corporate,Toronto,BC,NaN,23.86,,266.27,
+ORD-1031,2024-13-40,C002,Consumer,Calgary,NS,6,16.97,0.15,50.32,NA
+ORD-1032,02-Feb-2024,C006,Home Office,Ottawa,SK,8,138.22,0.0,29.78,fragile
+ORD-1033,03-Feb-2024,C006,Consumer,Montreal,QC,,null,,206.57,—
+ORD-1034,2024-02-04,C005,Corporate,Calgary,ON,2,14.65,0.05,?,NA
+ORD-1035,2024-13-40,NA,Corporate,Ottawa,NS,1,N/A,,-999,
+ORD-1036,NA,NA,Consumer,Ottawa,NS,3,45.84,0.0,97.92,
+ORD-1037,02/30/2024,C002,Consumer,Montreal,AB,3,126.37,0.0,?,
+ORD-1038,2024-02-08,,Consumer,Calgary,SK,1,246.57,0.0,154.18,—
+ORD-1039,2024-13-40,C002,Corporate,Calgary,MB,2,N/A,-,-999,urgent delivery
+ORD-1040,10-Feb-2024,None,Consumer,Vancouver,ON,1,51.37,0.2,-999,urgent delivery
+ORD-1041,02/30/2024,C006,Consumer,Halifax,ON,1,131.72,,NA,NA
+ORD-1042,12-Feb-2024,C004,Home Office,Vancouver,ON,5,3.95,0.15,41.75,fragile
+ORD-1043,02/30/2024,None,Consumer,Calgary,AB,1,55.65,0.1,58.41,leave at door
+ORD-1044,14-Feb-2024,C001,Corporate, ,QC,5,106.27,0.2,69.98,urgent delivery
+ORD-1045,2024-02-15,,Home Office,Calgary,ON,7,57.06,0.0,39.63,fragile
+ORD-1046,16-Feb-2024, ,Small Biz,Toronto,BC,NaN,142.37,0.1,,urgent delivery
+ORD-1047,17-Feb-2024,C002,Corporate,Ottawa,QC,1,361.89,0.2,91.96,gift
+ORD-1048,2024-13-40,C004,Corporate,,NS,8,34.39,0.0,75.47,fragile
+ORD-1049,2024-02-19, ,Small Biz,Calgary,NA,2,,0.1,88.16,leave at door
+ORD-1050,2024-13-40,C007,Corporate,Toronto,MB,3,67.15,0.05,30.37,fragile
+ORD-1051,21-Feb-2024,C005,Small Biz,NA,QC,—,67.93,0.05,N/A,
+ORD-1052,22-Feb-2024,C008,Small Biz,Halifax,AB,NaN,null,0.0,NA,NA
+ORD-1053,2024-13-40,C006,Corporate,,NS,5,null,0.0, ,leave at door
+ORD-1054,,C003,Consumer,Calgary,AB,6,-999,0.1,21.47,gift
+ORD-1055,25-Feb-2024,C006,NA,Montreal,AB,7,62.0,,79.71,leave at door
+ORD-1056,2024-02-26,C006,Small Biz,,BC,1,112.56,,14.67,urgent delivery
+ORD-1057,02/27/2024,C004,Home Office,,ON,2,49.16,0.0,85.03,
+ORD-1058,2024-02-28,C005,Small Biz,Toronto,ON,4,-999,,137.2,
+ORD-1059,02/29/2024,N/A,None,Ottawa,AB,4,137.88,0.0, ,fragile
+ORD-1060,2024-13-40,C003,Small Biz,Ottawa,ON,7,124.94,0.0,174.38,leave at door
+ORD-1061,,C004,Consumer,Montreal,QC,,31.22,0.2,171.48,fragile
+ORD-1062,03-Mar-2024,,Consumer,Toronto,ON,1,99,0.05,37.9,
+ORD-1063,03/04/2024,C008,None,Halifax,,7,54.2,0.2,211.43,leave at door
+ORD-1064,03/05/2024,C007,null,Montreal,AB,2,81.11,0.0, ,urgent delivery
+ORD-1065,06-Mar-2024,C005,Home Office,,SK,9,94.55,-,N/A,NA
+ORD-1066,2024-03-07,null,Consumer,Montreal,ON,NaN,N/A,,51.65,
+ORD-1067,03/08/2024,None,Corporate,Toronto,SK,7,103.18,0.0,?,NA
+ORD-1068,2024-03-09,,Corporate,Calgary,AB,7,,0.1,53.55,NA
+ORD-1069,03/10/2024,C004,Corporate,Halifax,BC,4,208.18,,NA,urgent delivery
+ORD-1070,03/11/2024,C001,Small Biz,Toronto,ON,1,?,0.1,NA,
+ORD-1071,2024-03-12,C006,Corporate,Halifax,QC,1,57.71,0.0,96.5,—
+ORD-1072,13-Mar-2024,C007,Small Biz,Vancouver,SK,,230.74,0.0,79.16,leave at door
+ORD-1073,03/14/2024,C005,Corporate,NA,AB,4,132.74,0.0,77.09,NA
+ORD-1074,02/30/2024,C002,None,Ottawa,BC,7,107.47,0.15,,—
+ORD-1075,03/16/2024,C004,Small Biz,Halifax,QC,4,80.77,0.0,20.89,gift
+,NA,C006,Corporate,,ON,4,35.2,0.0,80.29,gift
+ORD-1077,,C004,Consumer,,ON,—,33.96,-,NA,
+ORD-1078,03/19/2024,null,Small Biz,,QC,5,155.5,0.0,131.43,—
+ORD-1079,03/20/2024,C007,Consumer,NA,AB,NaN,,0.0,113.82,
+ORD-1080,03/21/2024,C008,Consumer,Montreal,QC,1,67.8,0.1,15.37,
+ORD-1081,,C003,Consumer,,ON,3,72.68,-,154.38,NA
+ORD-1082,2024-13-40,C005,Consumer,Toronto,BC,,81.69,0.05,184.27,fragile
+ORD-1083,2024-03-24,C003,Corporate,Montreal,ON,NaN, ,0.0,118.07,leave at door
+ORD-1084,,C004,Corporate,Halifax,QC,1,64.25,0.05,NA,
+ORD-1085,,C005,Small Biz,NA,QC,3,NA,0.25,9.45,fragile
+ORD-1086,27-Mar-2024,C007,Small Biz,Vancouver,MB,,177.29,NA,32.62,—
+ORD-1087,2024-13-40,C007,Small Biz,Calgary,ON,3,97.0,0.1,171.21,
+ORD-1088,03/29/2024,NA,Corporate,Montreal,,9,105.85,0.2,113.64,—
+ORD-1089,03/30/2024,C004,Small Biz,Ottawa,SK,,30.71,0.0,20.66,NA
+ORD-1090,NA,C003,Consumer,,QC,2,,0.0,335.93,gift
+ORD-1091,04/01/2024,C008,Corporate,Toronto,NA,,142.55,0.0,NA,fragile
+ORD-1092,,C002,Small Biz, ,BC,2,NA,0.0,160.01,NA
+ORD-1093,NA,C001,Consumer,Vancouver,ON,6,91.68,0.15,null,
+ORD-1094,2024-04-04,C002,Small Biz,Vancouver,ON,6, ,0.1,N/A,NA
+ORD-1095,05-Apr-2024,C003,NA,,NS,4,52.28,NA,22.5,
+ORD-1096,04/06/2024,C003,Small Biz,Halifax,AB,5,61.18,0.0,70.87,urgent delivery
+ORD-1097,2024-04-07,null,Home Office,Calgary,NS,7,9.52,0.25,109.89,fragile
+ORD-1098,NA,C002,Small Biz,Vancouver,QC,1,,0.1,?,leave at door
+ORD-1099,2024-13-40,C007,Small Biz,Vancouver,ON,3,96.35,0.15,99,fragile
+ORD-1100,2024-04-10,None,Corporate,Toronto,AB,2,111.02,0.25,370.07,
+ORD-1101,11-Apr-2024,C008,Corporate,Vancouver,NS,6,72.54,0.0,43.45,—
+ORD-1102,12-Apr-2024,C005,Home Office,,ON,1, ,NA,65.14,fragile
+ORD-1103,2024-04-13,C001,Corporate,Halifax,QC,, ,0.15,189.36,—
+ORD-1104,04/14/2024,C002,Consumer,Calgary,NS,—,60.7,0.15,94.82,—
+ORD-1105,2024-04-15,N/A,Consumer,Ottawa,AB,2,,0.05,?,urgent delivery
+ORD-1106,2024-13-40,C006,Home Office,,NS,9,82.35,0.05,126.6,
+ORD-1107,2024-04-17,C002,Consumer,Halifax,MB,3,47.18,0.0,170.1,fragile
+ORD-1108,04/18/2024,C005,Consumer,,MB,1,116.69,NA, ,
+ORD-1109,,C007,Small Biz,Halifax,QC,2, ,0.1,,fragile
+ORD-1110,20-Apr-2024,C003,Corporate,Toronto,QC,NaN,201.83,0.0,99,
+ORD-1111,04/21/2024,C008,Consumer,Ottawa,BC,1,32.45,,N/A,NA
+ORD-1112,04/22/2024,C001,Consumer,Calgary,BC,8,68.29,0.15,236.1,—
+ORD-1113,23-Apr-2024,null,Corporate,Montreal,AB,,191.54,0.05,84.71,NA
+ORD-1114,24-Apr-2024,C003,Consumer,Calgary,SK,1,null,0.05,N/A,
+ORD-1115,04/25/2024,C002,None,Toronto,,,NA,0.0,113.45,NA
+ORD-1116,04/26/2024,C005,Corporate,Ottawa,AB,, ,0.05, ,NA
+ORD-1117,04/27/2024,C004,Small Biz,,QC,2,,0.15,83.12,—
+ORD-1118,2024-13-40,C003,Consumer,NA,SK,3,33.16,0.0,269.45,
+ORD-1119,04/29/2024,C006,Corporate,Halifax,NA,1,92.76,0.0,13.37,fragile
+,,NA,, ,,,,N/A,NA, 
+ , ,NA,,,NA,,NA,,NA,
+ ,,NA,,, ,NA,,N/A,,
