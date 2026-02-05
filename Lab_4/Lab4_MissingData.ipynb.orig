@@ -92,6 +92,42 @@
       },
       "outputs": [
         {
+<<<<<<< HEAD
+          "data": {
+            "text/plain": [
+              "<bound method NDFrame.head of      order_id   order_date customer_id      segment     city province  \\\n",
+              "0    ORD-1000  01-Jan-2024        C002    Corporate  Toronto       SK   \n",
+              "1    ORD-1001   2024-01-02        C001     Consumer   Ottawa       QC   \n",
+              "2    ORD-1002  03-Jan-2024        C005  Home Office      NaN       QC   \n",
+              "3    ORD-1003   02/30/2024        C004    Small Biz  Halifax       SK   \n",
+              "4    ORD-1004  05-Jan-2024                 Consumer  Calgary       AB   \n",
+              "..        ...          ...         ...          ...      ...      ...   \n",
+              "118  ORD-1118   2024-13-40        C003     Consumer      NaN       SK   \n",
+              "119  ORD-1119   04/29/2024        C006    Corporate  Halifax      NaN   \n",
+              "120       NaN          NaN         NaN          NaN               NaN   \n",
+              "121                                NaN          NaN      NaN      NaN   \n",
+              "122                    NaN         NaN          NaN      NaN            \n",
+              "\n",
+              "    quantity unit_price discount shipping_cost         comments  \n",
+              "0          1     232.49        -           NaN              NaN  \n",
+              "1          2     218.26      NaN           NaN                —  \n",
+              "2          4      82.47      0.0         32.01              NaN  \n",
+              "3          3       -999     0.15         65.37  urgent delivery  \n",
+              "4          1                 NaN        159.06              NaN  \n",
+              "..       ...        ...      ...           ...              ...  \n",
+              "118        3      33.16      0.0        269.45              NaN  \n",
+              "119        1      92.76      0.0         13.37          fragile  \n",
+              "120      NaN        NaN      NaN           NaN                   \n",
+              "121      NaN        NaN      NaN           NaN              NaN  \n",
+              "122      NaN        NaN      NaN           NaN              NaN  \n",
+              "\n",
+              "[123 rows x 11 columns]>"
+            ]
+          },
+          "execution_count": 1,
+          "metadata": {},
+          "output_type": "execute_result"
+=======
           "output_type": "error",
           "ename": "FileNotFoundError",
           "evalue": "[Errno 2] No such file or directory: 'retail_transactions_messy.csv'",
@@ -106,7 +142,7 @@
             "\u001b[0;32m/usr/local/lib/python3.12/dist-packages/pandas/io/common.py\u001b[0m in \u001b[0;36mget_handle\u001b[0;34m(path_or_buf, mode, encoding, compression, memory_map, is_text, errors, storage_options)\u001b[0m\n\u001b[1;32m    871\u001b[0m         \u001b[0;32mif\u001b[0m \u001b[0mioargs\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mencoding\u001b[0m \u001b[0;32mand\u001b[0m \u001b[0;34m\"b\"\u001b[0m \u001b[0;32mnot\u001b[0m \u001b[0;32min\u001b[0m \u001b[0mioargs\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mmode\u001b[0m\u001b[0;34m:\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    872\u001b[0m             \u001b[0;31m# Encoding\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m--> 873\u001b[0;31m             handle = open(\n\u001b[0m\u001b[1;32m    874\u001b[0m                 \u001b[0mhandle\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m    875\u001b[0m                 \u001b[0mioargs\u001b[0m\u001b[0;34m.\u001b[0m\u001b[0mmode\u001b[0m\u001b[0;34m,\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
             "\u001b[0;31mFileNotFoundError\u001b[0m: [Errno 2] No such file or directory: 'retail_transactions_messy.csv'"
           ]
-          "execution_count": 1,
+>>>>>>> ac712504ff0e3ce698256f374f4057e9a87a84a4
         }
       ],
       "source": [
