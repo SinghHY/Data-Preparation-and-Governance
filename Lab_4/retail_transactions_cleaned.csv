@@ -1,0 +1,26 @@
+order_id,order_date,customer_id,segment,city,province,quantity,unit_price,discount,shipping_cost,comments
+ORD-1000,2024-01-01,C002,Corporate,Toronto,SK,1.0,232.49,0.0,83.12,
+ORD-1002,2024-01-03,C005,Home Office,Unknown,QC,4.0,82.47,0.0,32.01,
+ORD-1004,2024-01-05, ,Consumer,Calgary,AB,1.0,82.11,0.0,159.06,
+ORD-1007,2024-01-08,C002,Home Office,Vancouver,SK,6.0,45.73,0.15,63.92,
+ORD-1010,2024-01-11,C001,Corporate,Unknown,QC,3.0,82.11,0.1,83.12,
+ORD-1012,2024-01-13,C004,Consumer, ,MB,1.0,82.11,0.05,83.12,—
+ORD-1015,2024-01-16,C004,Corporate,Toronto,MB,7.0,97.93,0.0,26.01,
+ORD-1030,2024-01-31,C007,Corporate,Toronto,BC,3.0,23.86,0.0,266.27,
+ORD-1032,2024-02-02,C006,Home Office,Ottawa,SK,8.0,138.22,0.0,29.78,fragile
+ORD-1033,2024-02-03,C006,Consumer,Montreal,QC,3.0,82.11,0.0,206.57,—
+ORD-1042,2024-02-12,C004,Home Office,Vancouver,ON,5.0,3.95,0.15,41.75,fragile
+ORD-1044,2024-02-14,C001,Corporate, ,QC,5.0,106.27,0.2,69.98,urgent delivery
+ORD-1046,2024-02-16, ,Small Biz,Toronto,BC,3.0,142.37,0.1,83.12,urgent delivery
+ORD-1047,2024-02-17,C002,Corporate,Ottawa,QC,1.0,361.89,0.2,91.96,gift
+ORD-1051,2024-02-21,C005,Small Biz,Unknown,QC,3.0,67.93,0.05,83.12,
+ORD-1052,2024-02-22,C008,Small Biz,Halifax,AB,3.0,82.11,0.0,83.12,
+ORD-1055,2024-02-25,C006,Corporate,Montreal,AB,7.0,62.0,0.0,79.71,leave at door
+ORD-1065,2024-03-06,C005,Home Office,Unknown,SK,9.0,94.55,0.0,83.12,
+ORD-1072,2024-03-13,C007,Small Biz,Vancouver,SK,3.0,230.74,0.0,79.16,leave at door
+ORD-1086,2024-03-27,C007,Small Biz,Vancouver,MB,3.0,177.29,0.0,32.62,—
+ORD-1095,2024-04-05,C003,Corporate,Unknown,NS,4.0,52.28,0.0,22.5,
+ORD-1101,2024-04-11,C008,Corporate,Vancouver,NS,6.0,72.54,0.0,43.45,—
+ORD-1102,2024-04-12,C005,Home Office,Unknown,ON,1.0,82.11,0.0,65.14,fragile
+ORD-1110,2024-04-20,C003,Corporate,Toronto,QC,3.0,201.83,0.0,99.0,
+ORD-1114,2024-04-24,C003,Consumer,Calgary,SK,1.0,82.11,0.05,83.12,
